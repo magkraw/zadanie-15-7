@@ -13,3 +13,9 @@ body {
   padding-top: 15px;
   font-size: 40px;
 }
+
+.button {
+  color: white;
+  font-size: 26px;
+  border-radius: 5px;
+}
